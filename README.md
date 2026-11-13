@@ -1,6 +1,8 @@
-﻿# Mobile App Development
+# Mobile App Development
 
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/MOBILE_APP_DEV?style=for-the-badge)](https://github.com/harisaravananm/MOBILE_APP_DEV/commits/main)
+<!-- tech-version-badges -->
+![Mobile Development](https://img.shields.io/badge/Mobile-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Apps](https://img.shields.io/badge/Android-Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<!-- /tech-version-badges -->
 
 A workspace for mobile application development experiments and coursework.
 
